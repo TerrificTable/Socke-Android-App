@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1ec1398-b456-4ecc-b74a-c77c6f4a3921" name="Changes" comment="Main File">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ACuHpNmULo8qfigtj00YdzD7Qt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java_Projects/Socke-ToDo/resources/commons-io-2.11.0.jar",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xyz.terrific.Main" />
+      <module name="DesktopApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xyz.terrific.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1ec1398-b456-4ecc-b74a-c77c6f4a3921" name="Changes" comment="" />
+      <created>1654525803189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654525803189</updated>
+      <workItem from="1654525804786" duration="1121000" />
+      <workItem from="1654527043376" duration="452000" />
+    </task>
+    <task id="LOCAL-00001" summary="Theme">
+      <created>1654526597625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526597625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Theme JSON File">
+      <created>1654526624917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526624917</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Intelli Stuff">
+      <created>1654526683885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526683885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Maven 'init' file">
+      <created>1654526697183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526697183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JFrame thingy">
+      <created>1654526709015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526709015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Database Utils">
+      <created>1654526719599</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526719599</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JFrame Theme java file">
+      <created>1654526732443</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526732443</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Intelli Stuff">
+      <created>1654526745503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526745503</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Theme JSON File">
+      <created>1654526758821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526758821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Theme Utils">
+      <created>1654526769087</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526769087</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Resources File">
+      <created>1654526790501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526790501</updated>
+    </task>
+    <task id="LOCAL-00012" summary="A Simple Logger">
+      <created>1654526802812</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526802812</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Main File">
+      <created>1654526809630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526809630</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Maven 'init' file" />
+    <MESSAGE value="JFrame thingy" />
+    <MESSAGE value="Database Utils" />
+    <MESSAGE value="JFrame Theme java file" />
+    <MESSAGE value="Intelli Stuff" />
+    <MESSAGE value="Theme JSON File" />
+    <MESSAGE value="Theme Utils" />
+    <MESSAGE value="Resources File" />
+    <MESSAGE value="A Simple Logger" />
+    <MESSAGE value="Main File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main File" />
+  </component>
+</project>
