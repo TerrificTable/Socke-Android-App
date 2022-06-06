@@ -4,45 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ec1398-b456-4ecc-b74a-c77c6f4a3921" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/flatlaf_demo_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/gui/AppFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/gui/AppFrame.jfd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/theme/FrameTheme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/utils/DatabaseUtils.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/utils/Logger.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/utils/jframe/TableModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/utils/theme/ThemeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_6_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_6_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_6_21.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consoleApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Resources.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/gui/AppFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/gui/AppFrame.jfd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/utils/DatabaseUtils.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/utils/Logger.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/AppFrame.properties" beforeDir="false" />
+    <list default="true" id="d1ec1398-b456-4ecc-b74a-c77c6f4a3921" name="Changes" comment="Main File">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +42,8 @@
     "last_opened_file_path": "D:/Java_Projects/Socke-ToDo/resources/commons-io-2.11.0.jar",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager">
@@ -109,8 +74,101 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654525803189</updated>
-      <workItem from="1654525804786" duration="732000" />
+      <workItem from="1654525804786" duration="1121000" />
+      <workItem from="1654527043376" duration="452000" />
     </task>
+    <task id="LOCAL-00001" summary="Theme">
+      <created>1654526597625</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526597625</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Theme JSON File">
+      <created>1654526624917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526624917</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Intelli Stuff">
+      <created>1654526683885</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526683885</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Maven 'init' file">
+      <created>1654526697183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526697183</updated>
+    </task>
+    <task id="LOCAL-00005" summary="JFrame thingy">
+      <created>1654526709015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526709015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Database Utils">
+      <created>1654526719599</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526719599</updated>
+    </task>
+    <task id="LOCAL-00007" summary="JFrame Theme java file">
+      <created>1654526732443</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526732443</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Intelli Stuff">
+      <created>1654526745503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526745503</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Theme JSON File">
+      <created>1654526758821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526758821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Theme Utils">
+      <created>1654526769087</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526769087</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Resources File">
+      <created>1654526790501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526790501</updated>
+    </task>
+    <task id="LOCAL-00012" summary="A Simple Logger">
+      <created>1654526802812</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526802812</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Main File">
+      <created>1654526809630</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654526809630</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,5 +187,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Maven 'init' file" />
+    <MESSAGE value="JFrame thingy" />
+    <MESSAGE value="Database Utils" />
+    <MESSAGE value="JFrame Theme java file" />
+    <MESSAGE value="Intelli Stuff" />
+    <MESSAGE value="Theme JSON File" />
+    <MESSAGE value="Theme Utils" />
+    <MESSAGE value="Resources File" />
+    <MESSAGE value="A Simple Logger" />
+    <MESSAGE value="Main File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Main File" />
   </component>
 </project>
