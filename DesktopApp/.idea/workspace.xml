@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1ec1398-b456-4ecc-b74a-c77c6f4a3921" name="Changes" comment="Main File">
+    <list default="true" id="d1ec1398-b456-4ecc-b74a-c77c6f4a3921" name="Changes" comment="Resources File">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/xyz/terrific/Resources.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,20 +34,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Java_Projects/Socke-ToDo/resources/commons-io-2.11.0.jar",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java_Projects/Socke-ToDo/resources/mariadb-java-client-3.0.5.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="xyz.terrific.Main" />
@@ -75,7 +77,11 @@
       <option name="presentableId" value="Default" />
       <updated>1654525803189</updated>
       <workItem from="1654525804786" duration="1121000" />
-      <workItem from="1654527043376" duration="452000" />
+      <workItem from="1654527043376" duration="627000" />
+      <workItem from="1654527802274" duration="123000" />
+      <workItem from="1654527935868" duration="441000" />
+      <workItem from="1654528395159" duration="867000" />
+      <workItem from="1654529294218" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="Theme">
       <created>1654526597625</created>
@@ -168,7 +174,56 @@
       <option name="project" value="LOCAL" />
       <updated>1654526809630</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Intelli Stuff">
+      <created>1654527553267</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654527553267</updated>
+    </task>
+    <task id="LOCAL-00015" summary="added a space">
+      <created>1654527565139</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654527565139</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added 'Exit' button">
+      <created>1654529373024</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654529373024</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fixed Database connection">
+      <created>1654529439868</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1654529439868</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added .gitignore">
+      <created>1654529462597</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1654529462597</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Main File">
+      <created>1654529499009</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1654529499009</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Resources File">
+      <created>1654529511081</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1654529511081</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,12 +246,16 @@
     <MESSAGE value="JFrame thingy" />
     <MESSAGE value="Database Utils" />
     <MESSAGE value="JFrame Theme java file" />
-    <MESSAGE value="Intelli Stuff" />
     <MESSAGE value="Theme JSON File" />
     <MESSAGE value="Theme Utils" />
-    <MESSAGE value="Resources File" />
     <MESSAGE value="A Simple Logger" />
+    <MESSAGE value="Intelli Stuff" />
+    <MESSAGE value="added a space" />
+    <MESSAGE value="Added 'Exit' button" />
+    <MESSAGE value="Fixed Database connection" />
+    <MESSAGE value="added .gitignore" />
     <MESSAGE value="Main File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main File" />
+    <MESSAGE value="Resources File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resources File" />
   </component>
 </project>
