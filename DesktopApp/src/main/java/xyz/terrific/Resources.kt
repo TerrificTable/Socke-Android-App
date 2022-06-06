@@ -3,7 +3,7 @@ class Resources {
 
         var DB_USER: String = ""
         var DB_PASS: String = ""
-        var DB_URL: String = ""
+        var DB_URL: String  = ""
 
     }
 }
