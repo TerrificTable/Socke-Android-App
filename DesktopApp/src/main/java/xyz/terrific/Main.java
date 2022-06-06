@@ -1,7 +1,8 @@
 package xyz.terrific;
 
-import gui.AppFrame;
+import utils.DatabaseUtils;
 import utils.Logger;
+import xyz.terrific.gui.AppFrame;
 import xyz.terrific.theme.FrameTheme;
 
 import javax.swing.*;
@@ -23,6 +24,7 @@ public class Main {
         // frame.setResizable(false);
         // frame.setIconImage(new ImageIcon(resourceDir + "images/icon.png").getImage());
 
+        DatabaseUtils.Companion.connect();
 
         UIManager.setLookAndFeel(new FrameTheme());
         SwingUtilities.updateComponentTreeUI(frame);
