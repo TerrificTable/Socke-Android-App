@@ -13,6 +13,7 @@ public class Database {
     }
 
     public void disconnect(Connection conn) {
+        if (conn == null) return;
         DatabaseUtils.Companion.disconnect(conn);
     }
 
