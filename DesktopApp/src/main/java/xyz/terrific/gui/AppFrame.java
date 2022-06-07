@@ -4,6 +4,8 @@
 
 package xyz.terrific.gui;
 
+import xyz.terrific.gui.notification.DisplayNotification;
+
 import java.awt.*;
 import java.awt.event.*;
 import java.util.*;
@@ -22,12 +24,22 @@ public class AppFrame extends JFrame {
         System.exit(0);
     }
 
+    private void thisWindowDeactivated(WindowEvent e) {
+        new DisplayNotification("Minimized to tray icon!");
+    }
+
     private void initComponents() {
         // JFormDesigner - Component initialization - DO NOT MODIFY  //GEN-BEGIN:initComponents
         ResourceBundle bundle = ResourceBundle.getBundle("AppFrame");
         btn_exit = new JButton();
 
         //======== this ========
+        addWindowListener(new WindowAdapter() {
+            @Override
+            public void windowDeactivated(WindowEvent e) {
+                thisWindowDeactivated(e);
+            }
+        });
         var contentPane = getContentPane();
         contentPane.setLayout(null);
 
