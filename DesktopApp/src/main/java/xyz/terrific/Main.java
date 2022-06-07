@@ -1,17 +1,28 @@
 package xyz.terrific;
 
-import utils.DatabaseUtils;
-import utils.Logger;
+import xyz.terrific.db.Database;
 import xyz.terrific.gui.AppFrame;
+import xyz.terrific.gui.tray.Tray;
 import xyz.terrific.theme.FrameTheme;
+import xyz.terrific.utils.Logger;
 
 import javax.swing.*;
+import java.awt.*;
+import java.sql.Connection;
 
 public class Main {
 
-    public static AppFrame frame        = new AppFrame();
+    public static String appName = "Socke ToDo";
+
     public static String resourceDir    = "src/main/resources/";
+    public static boolean debug;
+
+    public static Connection conn;
+    public static Database db;
+
+    public static AppFrame frame;
     public static Logger logger;
+    public static SystemTray tray;
 
 
     public static void main(String[] args) throws UnsupportedLookAndFeelException {
@@ -19,12 +30,25 @@ public class Main {
         logger = new Logger("Main");
         logger.info("Started");
 
-        frame.setTitle("Socke ToDo");
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        // frame.setResizable(false);
-        // frame.setIconImage(new ImageIcon(resourceDir + "images/icon.png").getImage());
+        // ENABLE DEBUG
+        toggleDebug();
 
-        DatabaseUtils.Companion.connect();
+        // Database
+        db = new Database();
+        conn = db.connect();
+
+        frame = new AppFrame();
+        frame.setTitle(Main.appName);
+        // frame.setDefaultCloseOperation(JFrame.HIDE_ON_CLOSE);
+
+
+        // Tray Icon
+        tray = Tray.Companion.createTray();
+
+
+        // Connect to database
+        conn = db.connect();
+
 
         UIManager.setLookAndFeel(new FrameTheme());
         SwingUtilities.updateComponentTreeUI(frame);
@@ -32,5 +56,13 @@ public class Main {
 
 
         frame.setVisible(true);
+    }
+
+    public static void toggleDebug() {
+        debug = !debug;
+    }
+
+    public static void setDebug(boolean state) {
+        debug = state;
     }
 }
