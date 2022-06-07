@@ -1,4 +1,6 @@
-package utils
+package xyz.terrific.utils
+
+import xyz.terrific.Main
 
 class Logger(private val loggerEntry: String) {
     val entry: String = loggerEntry
@@ -16,6 +18,12 @@ class Logger(private val loggerEntry: String) {
     }
     fun info(entry: String, message: String) {
         println("[$entry] (INFO)   $message")
+    }
+
+
+    fun debug(message: String) {
+        if (Main.debug)
+            println(" -> (DEBUG)   $message")
     }
 
     fun log(message: String) {
@@ -45,6 +53,10 @@ class Logger(private val loggerEntry: String) {
         }
         fun info(entry: String, message: String) {
             println("[$entry] (INFO)   $message")
+        }
+        fun debug(message: String) {
+            if (Main.debug)
+                println(" -> (DEBUG)   $message")
         }
         fun log(entry: String, message: String) {
             println("[$entry] (LOG)   $message")
