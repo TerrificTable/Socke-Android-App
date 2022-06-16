@@ -3,17 +3,93 @@
 
 
 * {
-    text-align: center;
-    color: #838383c9;
-    font-family: 'Open Sans', sans-serif;
-    
+    /* color: #838383c9; */
+    font-family: 'Open Sans', sans-serif
 }
 
-
 body {
+    margin: 0px;
+    background-color: #bbf5ff;
     /* background-image: url('https://w.wallhaven.cc/full/3z/wallhaven-3zv2dd.png'); */
 }
 
+header {
+    color: white;
+    background-color: rgb(64, 0, 255);
+    text-align: center;
+    padding: 5px;
+}
+
+header a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+nav {
+    overflow: hidden;
+    background-color: #3dafff;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    float: left;
+    text-align: center;
+    display: block;
+    padding: 10px 10px;
+    border-right: 1px solid rgb(60, 138, 255);
+}
+
+nav a.active {
+    background-color: rgb(0, 81, 255);
+    color: #251501;
+}
+
+nav a:hover {
+    background-color: #80ecff;
+    color: #000;
+}
+
+
+section {
+    float: left;
+    position: sticky;
+    display: block;
+    background-color: #ffffff;
+    padding: 10px 10px;
+    margin: 10px 10px;
+
+    /*
+    position: sticky;
+    width: 25%;
+    float: left;
+    display: block;
+    background-color: #ffffff;
+    margin: 10px 10px;
+    padding: 5px 20px; */
+}
+
+
+
+footer {
+    float: left;
+    display: block;
+    background-color: #40afff;
+    color: white;
+    width: 100%;
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+}
+
+footer div {
+    padding: 10px 10px;
+}
+
+/*
 #main {
     position: fixed;
     width: 55%;
@@ -21,9 +97,8 @@ body {
 
 
 #header {
-    text-align: center;
     margin-top: 30px;
-    /* margin: auto; */
+    margin: auto;
     font-size: 39px;
     color: rgb(0, 0, 0);
 }
@@ -35,7 +110,7 @@ body {
 
 p {
     font-family: 'Poppins', sans-serif;
-    /* color:rgb(0, 0, 0); */
+    color:rgb(0, 0, 0);
     font-size: 27px;
 }
 
@@ -67,3 +142,4 @@ code {
     text-align: left;
     color: #000;
 }
+*/
